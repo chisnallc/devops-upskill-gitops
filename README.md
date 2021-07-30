@@ -10,7 +10,7 @@
 
 ### Step 1 - Fork this repository
 
-Fork this repository to your own GitHub account. 
+Fork this repository to your own GitHub account. this
 
 We fork the repository so that you can edit some of the code and push back your changes.
 
